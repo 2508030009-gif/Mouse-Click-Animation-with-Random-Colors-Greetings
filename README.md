@@ -2,15 +2,6 @@
 A simple interactive web project that creates animated circles on every mouse click. Each circle appears at the click position with a random color and greeting text in different languages. The circles expand and fade out using CSS animations, creating a fun visual click effect built using HTML, CSS, and JavaScript.
 Here’s a **complete, polished, viral-style `README.md`** you can directly copy into your repo 👇
 
----
-
-## 📂 Project Structure
-clickverse/
-│
-├── index.html     # Main structure
-├── style.css      # Styling & animations
-└── script.js      # Click logic & dynamic elements
----
 
 ## ⚙️ How It Works
 
